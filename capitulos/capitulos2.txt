@@ -1,0 +1,4 @@
+El flujo de trabajo basico con Git consiste en:
+1- Hacer cambios en el repositorio.
+2- Añadir los cambios a la zoma de intercambio temporal.
+[D[D[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[Cn[Dna[B[D[D[D[D[D[D[D[D[D[D[D[D3- Hacer un commit de los cambios.
